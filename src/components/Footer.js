@@ -15,8 +15,8 @@ const Footer = props => (
     <section>
       <h2>Contact Us</h2>
       <dl className="alt">
-        <dt>Phone</dt>
-        <dd>520.505.1932</dd>
+        <dt>Social Media</dt>
+        <dd>Feel free to contact either one of us using our social media links above.</dd>
         <dt>Email</dt>
         <dd>
           <a href="#">contact@daubcreative.com</a>
